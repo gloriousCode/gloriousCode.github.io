@@ -1,0 +1,15 @@
+[
+ {
+  "username": "gloriousCode",
+  "name": "Scott",
+  "userimg": "https://avatars1.githubusercontent.com/u/9261323?v=4",
+  "sort": "updated",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "linkedin": "scott-grant-linkedin"
+ }
+]
